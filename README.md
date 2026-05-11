@@ -1,4 +1,4 @@
-# gaosutu
+# 高速兔 www.gaosutu.vip
 机场节点购买 2026 好用的付费机场推荐
 
 网址 www.gaosutu.vip
