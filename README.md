@@ -20,6 +20,7 @@
 退款期：遇到问题了，最后的时间，能不能部分退款。
 
 - Windows ：clash verge
+- https://github.com/clash-verge-rev/clash-verge-rev
 - 安卓：v2box
 - iOS：karing ,v2box
 
